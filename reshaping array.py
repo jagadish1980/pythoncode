@@ -1,3 +1,6 @@
+
+
+
 # reshaping array
 
 # Creating a 2D array
